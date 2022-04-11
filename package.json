@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "md5": "^2.3.0",
-    "openpgp": "^5.2.0"
+    "openpgp": "^5.2.0",
+    "papaparse": "^5.3.2"
   }
 }
